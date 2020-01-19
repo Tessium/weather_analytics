@@ -1,7 +1,7 @@
 ***Initialization***:
 
 	Run python weather.py in order to create/initialize tables. Further runs will update tables.
-	P.s. It takes time due to the fact that, we have 5 cities and it updated for every 1 minute of the last 10 minutes. 
+	P.s. It takes time due to the fact that, we have 5 cities and updates for every 1 minute of the last 10 minutes. 
 	So that, 10 * 5 = 50 requests in total.
 
 ***Usage***: 
